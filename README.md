@@ -13,6 +13,8 @@ Sosyal medya, tüm toplumlarda günlük yaşamın vazgeçilmez bir parçası olm
 Metot
 
 •	LoginInfo.py dosyasına kullanıcı adı ve şifresinin kaydedilmesi gerekir.
+
 •	Tüm gönderilen isteklerin listesini almak için python follow_request.py komutunu konsoldan çalıştırmamız yeterli, tüm gönderilmiş bekleyen istekleri alıp userlist.txt dosyasına kaydeder.
+
 •	Gönderilen tüm istekleri geri almak için python cancel_request.py komutunun konsoldan çalıştırılması yeterli.
 Uygulama otomatik olarak instagram tarafından ban yememek yada bot olarak algılanmamak için 9 ila 20 saniye arasında random bir zaman ile istekleri en eskiden en yeniye olacak şekilde geri çeker.
