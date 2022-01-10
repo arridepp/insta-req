@@ -12,6 +12,8 @@ Sosyal medya, tüm toplumlarda günlük yaşamın vazgeçilmez bir parçası olm
 
 ## Metot
 
+![login info](https://user-images.githubusercontent.com/74824751/148710574-c4ba20c0-5e13-4c21-9850-10c1d965b9b7.jpg)
+
 **•	LoginInfo.py dosyasına kullanıcı adı ve şifresinin kaydedilmesi gerekir.**
 
 **•	Tüm gönderilen isteklerin listesini almak için python follow_request.py komutunu konsoldan çalıştırmamız yeterli, tüm gönderilmiş bekleyen istekleri alıp userlist.txt dosyasına kaydeder.**
