@@ -1,5 +1,5 @@
 # insta-req
-**ABSTRACT**
+## ABSTRACT
 
 Social media has become an essential part of daily life in all societies and even It can be said that it is located in the center of life. Instagram, which is one of these social networking applications, has 50,000,000 users in our country.
 It has several users and currently has 1,220,000,000 users worldwide.
@@ -14,11 +14,11 @@ Sosyal medya, tüm toplumlarda günlük yaşamın vazgeçilmez bir parçası olm
 
 ![login info](https://user-images.githubusercontent.com/74824751/148710574-c4ba20c0-5e13-4c21-9850-10c1d965b9b7.jpg)
 
-**•	LoginInfo.py dosyasına kullanıcı adı ve şifresinin kaydedilmesi gerekir.**
+**•	***LoginInfo.py*** dosyasına kullanıcı adı ve şifresinin kaydedilmesi gerekir.**
 
-**•	Tüm gönderilen isteklerin listesini almak için python follow_request.py komutunu konsoldan çalıştırmamız yeterli, tüm gönderilmiş bekleyen istekleri alıp userlist.txt dosyasına kaydeder.**
+**•	Tüm gönderilen isteklerin listesini almak için ***python follow_request.py*** komutunu konsoldan çalıştırmamız yeterli, tüm gönderilmiş bekleyen istekleri alıp userlist.txt dosyasına kaydeder.**
 
-**•	Gönderilen tüm istekleri geri almak için python cancel_request.py komutunun konsoldan çalıştırılması yeterli.**
+**•	Gönderilen tüm istekleri geri almak için ***python cancel_request.py*** komutunun konsoldan çalıştırılması yeterli.**
 
 ![ana ekran](https://user-images.githubusercontent.com/74824751/148710513-f85dc508-6f00-4125-8d10-e35579fc7cf9.png)
 
