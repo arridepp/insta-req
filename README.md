@@ -17,4 +17,7 @@ Sosyal medya, tüm toplumlarda günlük yaşamın vazgeçilmez bir parçası olm
 **•	Tüm gönderilen isteklerin listesini almak için python follow_request.py komutunu konsoldan çalıştırmamız yeterli, tüm gönderilmiş bekleyen istekleri alıp userlist.txt dosyasına kaydeder.**
 
 **•	Gönderilen tüm istekleri geri almak için python cancel_request.py komutunun konsoldan çalıştırılması yeterli.**
+
+![ana ekran](https://user-images.githubusercontent.com/74824751/148710513-f85dc508-6f00-4125-8d10-e35579fc7cf9.png)
+
 **Uygulama otomatik olarak instagram tarafından ban yememek yada bot olarak algılanmamak için 9 ila 20 saniye arasında random bir zaman ile istekleri en eskiden en yeniye olacak şekilde geri çeker.**
