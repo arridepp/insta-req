@@ -24,4 +24,6 @@ Sosyal medya, tüm toplumlarda günlük yaşamın vazgeçilmez bir parçası olm
 
 **Uygulama otomatik olarak instagram tarafından ban yememek yada bot olarak algılanmamak için 9 ila 20 saniye arasında random bir zaman ile istekleri en eskiden en yeniye olacak şekilde geri çeker.**
 
+## Meteryal
 
+** Uygulamamızı yazmak ve tasarlamak için pyton dili, selenium kütüphanesi ve teknolojisi kullanıldı. İnstagram ile daha iyi bir etkileşim için instagram_private_api kullanıldı. Kodlamayı gerçekleştirmek için visual studio code IDE ortamı kullanıldı. Selenium teknolojisinden yararlanma sebebimiz web tarayıcısının çekirdeğine doğrudan iletişim sağlamak ve daha güvenli bir şekilde giriş yapmak, veri alabilmek ve instagramın bizi bot olarak algılamamasını sağlamak için kullandık.**
