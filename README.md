@@ -27,3 +27,5 @@ Sosyal medya, tüm toplumlarda günlük yaşamın vazgeçilmez bir parçası olm
 ## Meteryal
 
 ** Uygulamamızı yazmak ve tasarlamak için pyton dili, selenium kütüphanesi ve teknolojisi kullanıldı. İnstagram ile daha iyi bir etkileşim için instagram_private_api kullanıldı. Kodlamayı gerçekleştirmek için visual studio code IDE ortamı kullanıldı. Selenium teknolojisinden yararlanma sebebimiz web tarayıcısının çekirdeğine doğrudan iletişim sağlamak ve daha güvenli bir şekilde giriş yapmak, veri alabilmek ve instagramın bizi bot olarak algılamamasını sağlamak için kullandık.**
+
+Güle güle kullanın
