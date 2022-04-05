@@ -29,3 +29,8 @@ Sosyal medya, tüm toplumlarda günlük yaşamın vazgeçilmez bir parçası olm
 ** Uygulamamızı yazmak ve tasarlamak için pyton dili, selenium kütüphanesi ve teknolojisi kullanıldı. İnstagram ile daha iyi bir etkileşim için instagram_private_api kullanıldı. Kodlamayı gerçekleştirmek için visual studio code IDE ortamı kullanıldı. Selenium teknolojisinden yararlanma sebebimiz web tarayıcısının çekirdeğine doğrudan iletişim sağlamak ve daha güvenli bir şekilde giriş yapmak, veri alabilmek ve instagramın bizi bot olarak algılamamasını sağlamak için kullandık.**
 
 **Güle Güle Kullanın**
+
+![1](https://user-images.githubusercontent.com/74824751/160303296-6dd40c26-532e-4d33-b4b4-fa21db021104.gif)
+
+ https://www.buymeacoffee.com/ARRiDepp
+
